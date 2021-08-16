@@ -26,6 +26,7 @@
 
 	<modules>
 	<module>course</module>
+	<module>core</module>
 	</modules>
 
 	<dependencies>

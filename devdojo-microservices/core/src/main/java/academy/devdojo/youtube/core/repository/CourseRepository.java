@@ -1,8 +1,8 @@
-package academy.devdojo.youtube.course.repository;
+package academy.devdojo.youtube.core.repository;
 
 import org.springframework.data.repository.PagingAndSortingRepository;
 
-import academy.devdojo.youtube.course.model.Course;
+import academy.devdojo.youtube.core.model.Course;
 
 public interface CourseRepository extends PagingAndSortingRepository<Course, Long>{
 
