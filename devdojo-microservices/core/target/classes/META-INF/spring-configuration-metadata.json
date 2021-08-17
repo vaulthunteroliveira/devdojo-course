@@ -1,0 +1,48 @@
+{
+  "groups": [
+    {
+      "name": "jwt.config",
+      "type": "academy.devdojo.youtube.core.propertie.JwtConfiguration",
+      "sourceType": "academy.devdojo.youtube.core.propertie.JwtConfiguration"
+    },
+    {
+      "name": "jwt.config.header",
+      "type": "academy.devdojo.youtube.core.propertie.JwtConfiguration$Header",
+      "sourceType": "academy.devdojo.youtube.core.propertie.JwtConfiguration",
+      "sourceMethod": "public academy.devdojo.youtube.core.propertie.JwtConfiguration.Header getHeader() "
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.config.expiration",
+      "type": "java.lang.Integer",
+      "sourceType": "academy.devdojo.youtube.core.propertie.JwtConfiguration"
+    },
+    {
+      "name": "jwt.config.header.name",
+      "type": "java.lang.String",
+      "sourceType": "academy.devdojo.youtube.core.propertie.JwtConfiguration$Header"
+    },
+    {
+      "name": "jwt.config.header.prefix",
+      "type": "java.lang.String",
+      "sourceType": "academy.devdojo.youtube.core.propertie.JwtConfiguration$Header"
+    },
+    {
+      "name": "jwt.config.login-url",
+      "type": "java.lang.String",
+      "sourceType": "academy.devdojo.youtube.core.propertie.JwtConfiguration"
+    },
+    {
+      "name": "jwt.config.privtae-key",
+      "type": "java.lang.String",
+      "sourceType": "academy.devdojo.youtube.core.propertie.JwtConfiguration"
+    },
+    {
+      "name": "jwt.config.type",
+      "type": "java.lang.String",
+      "sourceType": "academy.devdojo.youtube.core.propertie.JwtConfiguration"
+    }
+  ],
+  "hints": []
+}
