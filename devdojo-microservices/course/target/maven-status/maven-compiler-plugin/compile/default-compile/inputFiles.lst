@@ -1,6 +1,3 @@
 /home/alexoliveira/Área de Trabalho/devdojo-course/devdojo-microservices/course/src/main/java/academy/devdojo/youtube/course/CourseApplication.java
-/home/alexoliveira/Área de Trabalho/devdojo-course/devdojo-microservices/course/src/main/java/academy/devdojo/youtube/course/model/Course.java
-/home/alexoliveira/Área de Trabalho/devdojo-course/devdojo-microservices/course/src/main/java/academy/devdojo/youtube/course/repository/CourseRepository.java
 /home/alexoliveira/Área de Trabalho/devdojo-course/devdojo-microservices/course/src/main/java/academy/devdojo/youtube/course/controller/CourseController.java
 /home/alexoliveira/Área de Trabalho/devdojo-course/devdojo-microservices/course/src/main/java/academy/devdojo/youtube/course/service/CourseService.java
-/home/alexoliveira/Área de Trabalho/devdojo-course/devdojo-microservices/course/src/main/java/academy/devdojo/youtube/course/model/AbstractEntity.java
