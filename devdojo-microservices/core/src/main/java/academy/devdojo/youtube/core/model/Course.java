@@ -33,5 +33,8 @@ public class Course implements AbstractEntity {
     @NotNull(message = "The field 'title' is mandatory")
     @Column(nullable = false)
     private String title;
+    
+//    @Column(columnDefinition = "TEXT")
+//    private String teste;
 
 }

@@ -1,6 +1,5 @@
 package academy.devdojo.youtube.core.auth.service;
 
-import java.nio.file.attribute.UserPrincipalNotFoundException;
 import java.util.Collection;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -19,7 +18,7 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 @Service
 @RequiredArgsConstructor(onConstructor = @__(@Autowired))
-public class UserDetailsSerrviceImpl implements UserDetailsService {
+public class UserDetailsServiceImpl implements UserDetailsService {
 	
 	private final ApplicationUserRepository applicationUserRepository;
 

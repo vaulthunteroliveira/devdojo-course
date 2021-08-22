@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: alexoliveira
+Build-Jdk: 15.0.2
+Implementation-Title: token
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: academy.devdojo.youtube
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/devdojo-microservices/token
+Created-By: Maven Integration for Eclipse
+
